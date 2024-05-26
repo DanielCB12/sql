@@ -1,2 +1,2 @@
 # sql
-comandos sql
+comandos sql desde 0 
